@@ -1,0 +1,13 @@
+6 K
+50 C
+3 E
+200 T
+10 L
+100 P
+20 S
+3 S1
+12 S2
+3 openCD
+300 refreshD
+statsClients.txt logname1
+statsCashiers.txt logname2
